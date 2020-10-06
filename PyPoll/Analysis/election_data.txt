@@ -1,8 +1,0 @@
-3521001
-candidate:  ['khan', 'correy', 'li', "o'tooley"]
-percentage:  [63.0, 20.0, 14.0, 3.0]
-khan   (2218231)
-correy   (704200)
-li   (492940)
-o'tooley   (105630)
-Winner: Khan
